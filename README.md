@@ -1,6 +1,3 @@
-Got it! Here’s a professional, clear README template for your **AWS Infrastructure Automation with Terraform** project. You can customize it with your GitHub repo link and details:
-
----
 
 # AWS Infrastructure Automation with Terraform
 
